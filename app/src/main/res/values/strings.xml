@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Penzvalto</string>
+    <string name="valaszt">Kérlek válassz a felsoroltak közül!</string>
+    <string name="felso">Felső fokú végzettség</string>
+    <string name="kozep">Közép fokú végzettség</string>
+    <string name="altalanos">Általános fokú végzettség</string>
+    <string name="tovabb">Tovább</string>
+    <string name="brutto">Bruttó fizetés:</string>
+    <string name="netto">Nettó fizetés:</string>
+    <string name="kiszamol">Kiszámol</string>
+    <string name="bruttofizu">Kérlek ird be a bruttó fizetésed:</string>
+    <string name="szamol">Számol</string>/>
+    <string name="ures">"Üres a szám mező!</string>/>
+</resources>
